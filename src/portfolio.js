@@ -59,4 +59,4 @@ const contact = {
   email: 'agentsaif001.com',
 }
 
-export { header, about, projects, skills, contact }
+export { header, about, skills, contact }
